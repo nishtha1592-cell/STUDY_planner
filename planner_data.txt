@@ -1,0 +1,4 @@
+Physics,Chemistry,Math | Laws of motion,Wavefunctions,Integrals | 2025-11-22
+Python Programming  | Presentation | 2025-11-22
+EEE | Lab practicals | 2025-11-22
+AI and ML | learning Prolog | 2025-11-22
